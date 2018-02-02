@@ -1,2 +1,9 @@
-# q2_Is_Dinner_Ready-
-food service app that will allow user to order pre-made food or have a cook come to there house to make them dinner
+A web application that allows users to input the contents of their fridge and receive recipe ideas based on what they have.
+
+technologies used:
+node.js
+Express
+mongodb
+passport.js
+materialize
+axios
